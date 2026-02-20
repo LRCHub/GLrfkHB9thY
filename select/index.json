@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Sunny drop",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T13:22:28.540337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunny drop",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_Sunny_drop_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunny drop",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_Sunny_drop_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunny Drop",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/03_Sunny_Drop_Novelbright.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "20.Sunny drop",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/04_20.Sunny_drop_Novelbright.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunny drop (From THE FIRST TAKE)",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/05_Sunny_drop_(From_THE_FIRST_TAKE)_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunny drop",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Sunny_drop_Novelbright.txt"
+    }
+  ]
+}
